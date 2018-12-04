@@ -12,7 +12,8 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    
+    <!-- Testng -->
+		<testng.version>6.9.10</testng.version>
   </properties>
 
   <dependencies>
